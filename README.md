@@ -1,1 +1,1 @@
-# sanaleo-conditional-coupons
+# sanaleo-automated-email-marketing plugin
